@@ -1,4 +1,4 @@
-# 
+# Polymarket quantitative bot: stop-loss-management & trailing-stops is the best Polymarket bot, featuring stop-loss-management and trailing-stops. Smart, fast, and optimized for
 
 
 
